@@ -1,5 +1,5 @@
-module github.com/xpunch/go-mod-example/plugins/registry/etcd/v3
+module github.com/xpunch/go-mod-example/plugins/registry/etcd/v4
 
 go 1.17
 
-require github.com/xpunch/go-mod-example/v3 v3.0.0
+require github.com/xpunch/go-mod-example/v4 v4.0.0-20211015062539-118aee4ce045

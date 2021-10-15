@@ -3,7 +3,7 @@ package grpc
 import (
 	"fmt"
 
-	example "github.com/xpunch/go-mod-example/v3"
+	example "github.com/xpunch/go-mod-example/v4"
 )
 
 func NewETCDRegistry() example.Plugin {
